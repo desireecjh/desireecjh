@@ -14,11 +14,11 @@ Not hoping to turn into a full-fledged coder or security expert with all these s
 
 - 🔭 Currently a **Senior Analyst with over 5 years of experience in Business Analysis & Project Management**
 
-- 🌱 Seeking to pursue a career transition into Cybersecurity - in particular the **Security Operations Center (SOC)** track
+- 🌱 Seeking to pursue a career transition into Cybersecurity - in particular the **SOC Analyst** track
 
 - 👯 Eager to connect with tech professionals & like-minded individuals to exchange ideas, share insights, & grow together
 
-- 👨‍💻 Actively seeking opportunities in **SOC analysis, cyber risk & threat detection/response/mitigation**
+- 👨‍💻 Actively seeking opportunities in Defensive Security - **Security Operations Center (SOC), Threat Intelligence, Digital Forensics and Incident Response (DFIR)**
 
 - 📫 Reach me at **desireecjh@gmail.com**
 
