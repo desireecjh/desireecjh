@@ -1,8 +1,11 @@
 <h1 align="center">Hello 👋, I'm Desiree</h1>
 <h3 align="center">Business Analyst Pivoting into Cybersecurity | Driven to Learn, Secure & Protect</h3>
 
-This GitHub serves as my learning repository, documenting projects, labs, and challenges I've tackled in my Cybersecurity journey. <br>
-While I'm not a full-fledged coder, I'm dedicated to continuously improving my technical skills and showcasing my progress along the way. Each piece of work here represents another step closer to my goal 🎯. </br>
+This GitHub serves as my learning repository, documenting projects, labs, and challenges I've tackled in my cybersecurity journey. <br>
+
+Not hoping to turn into a full-fledged coder or security expert with all these stuff, just trying to be better than I was yesterday.
+ I'm dedicated to continuously improving my technical skills, and each piece of work here represents another step closer to my goal 🎯.</br> 
+
 🚀 On this journey to cybersecurity — one project at a time ~
 
 
@@ -11,12 +14,11 @@ While I'm not a full-fledged coder, I'm dedicated to continuously improving my t
 
 - 🔭 Currently a **Senior Analyst with over 5 years of experience in Business Analysis & Project Management**
 
-- 🌱 Seeking to pursue **a career transition into Cybersecurity**
+- 🌱 Seeking to pursue a career transition into Cybersecurity - in particular the **Security Operations Center (SOC)** track
 
+- 👯 Eager to connect with tech professionals & like-minded individuals to exchange ideas, share insights, & grow together
 
-- 👯 Eager to connect with **tech professionals & like-minded individuals to exchange ideas, share insights, & grow together**
-
-- 👨‍💻 Actively seeking **opportunities in SOC analysis, cyber risk & threat detection/response/mitigation**
+- 👨‍💻 Actively seeking opportunities in **SOC analysis, cyber risk & threat detection/response/mitigation**
 
 - 📫 Reach me at **desireecjh@gmail.com**
 
